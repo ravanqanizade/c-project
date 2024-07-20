@@ -30,13 +30,13 @@ public class Program
             {
                 new Department("Pediatrics", new List<Doctor>
                 {
-                    new Doctor("John", "Doe", 10, new Dictionary<string, bool>
+                    new Doctor("Aynur", "Aliyeva", 10, new Dictionary<string, bool>
                     {
                         {"09:00-11:00", false},
                         {"12:00-14:00", false},
                         {"15:00-17:00", false}
                     }),
-                    new Doctor("Jane", "Smith", 8, new Dictionary<string, bool>
+                    new Doctor("Ravan", "Qanizade", 8, new Dictionary<string, bool>
                     {
                         {"09:00-11:00", false},
                         {"12:00-14:00", false},
@@ -45,7 +45,7 @@ public class Program
                 }),
                 new Department("Traumatology", new List<Doctor>
                 {
-                    new Doctor("Tom", "Brown", 12, new Dictionary<string, bool>
+                    new Doctor("Zohrab", "Mohsumov", 12, new Dictionary<string, bool>
                     {
                         {"09:00-11:00", false},
                         {"12:00-14:00", false},
@@ -54,7 +54,7 @@ public class Program
                 }),
                 new Department("Dentistry", new List<Doctor>
                 {
-                    new Doctor("Alice", "Johnson", 15, new Dictionary<string, bool>
+                    new Doctor("Ibrahim", "Qanizade", 15, new Dictionary<string, bool>
                     {
                         {"09:00-11:00", false},
                         {"12:00-14:00", false},
